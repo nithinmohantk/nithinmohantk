@@ -1,16 +1,13 @@
-### Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/nithin-mohantk-bluef?style=flat&logo=linkedin)](https://www.linkedin.com/in/nithinmohantk/)
+[![twitter badge](https://img.shields.io/badge/nithin-mohantk-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
+[![medium badge](https://img.shields.io/badge/nithin-mohantk-blue?style=flat&logo=web)](https://www.nithinz.dev)
 
-<!--
-**nithinmohantk/nithinmohantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+- 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects
+- 🌱 I’m currently learning GitOps, ArgoCD, Flux, CKS, CCSK
+- 👯 I’m looking to collaborate on Projects and Hackathons
+- 💬 Ask me about anything
+- 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
+- 📫 How to reach me: Twitter - @nithinmohantk @_AzureLad
+- 😄 Pronouns: He/Him/Male
+- ⚡ Fun fact: I am dyslexic, hard to focus, keep forgetting things, you could see careless spelling mistakes everywhere. But I try to practice and remember things that is essential. 
