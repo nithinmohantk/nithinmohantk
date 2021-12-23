@@ -2,7 +2,7 @@
 
 I'm Nithin Mohan:name_badge::octocat::cancer::male_sign::india::ireland:. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and  works for :briefcase: Carne Digital Solutions Ltd  - [Platform Ops Team](https://www.carnegroup.com) as :bowtie: DevOps Team Lead  :pushpin: Dublin, Ireland
 
-#### :trident:  - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
+#### CKA / CKAD/ MCP / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
