@@ -1,6 +1,6 @@
-[![linkedin badge](https://img.shields.io/badge/nithin-mohantk-bluef?style=flat&logo=linkedin)](https://www.linkedin.com/in/nithinmohantk/)
-[![twitter badge](https://img.shields.io/badge/nithin-mohantk-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
-[![medium badge](https://img.shields.io/badge/nithin-mohantk-blue?style=flat&logo=web)](https://www.nithinz.dev)
+[![linkedin badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nithinmohantk/)
+[![twitter badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
+[![medium badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=web)](https://www.nithinz.dev)
 
 Hi there 👋
 - 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects
