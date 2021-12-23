@@ -2,9 +2,7 @@
 
 I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). 
 
-Title: DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
-
-- 💻 Check out [my code samples on GitHub](https://github.com/nithinmohantk)!
+## DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
 I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
@@ -27,4 +25,4 @@ I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my 
 [![medium badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=web)](https://www.nithinz.dev)
 
 ### Organizations 
-[@OpenContrib](https://github.com/OpenContrib) @DotNetContrib @ThingX-Smart @Big0 [@JSContrib](https://github.com/JSContrib) [@AzureContrib](https://github.com/AzureContrib) @ThingX-Learning @MS-Learning @ThingX-IoT @SPPnP-Contrib [@LK-MUG]((https://github.com/LK-MUG) @LettekennyJS @AlibabaCloud-EIRE [@DevOpsContrib]((https://github.com/DevOpsContrib) @AI-Contrib @CtrlAltEliteZ @aily-io @dotnet-foundation@HackmaniaGX @Mobile-Dev-Contrib @ThingXCloud @CloudContrib @NuZigma @CloudNativeContrib
+[@OpenContrib](https://github.com/OpenContrib)  / @DotNetContrib  / @ThingX-Smart  / @Big0  / [@JSContrib](https://github.com/JSContrib)  / [@AzureContrib](https://github.com/AzureContrib)  / @ThingX-Learning  / @MS-Learning  / @ThingX-IoT  / @SPPnP-Contrib  / [@LK-MUG]((https://github.com/LK-MUG)  / @LettekennyJS  / @AlibabaCloud-EIRE  / [@DevOpsContrib](https://github.com/DevOpsContrib)  / @AI-Contrib  / @CtrlAltEliteZ  / @aily-io /  @dotnet-foundation  / @HackmaniaGX  /  @Mobile-Dev-Contrib  /  @ThingXCloud  / @CloudContrib  / @NuZigma  / @CloudNativeContrib
