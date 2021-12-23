@@ -1,6 +1,6 @@
 ### Hello Namaste! 👋🏻 
 
-I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). 
+I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). :india: :ireland:
 
 ### DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
