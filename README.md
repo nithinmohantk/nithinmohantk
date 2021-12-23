@@ -1,6 +1,8 @@
-### Hello Namaste! 👋🏻
+### Hello Namaste! 👋🏻 
 
 I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). 
+
+Title: DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
 - 💻 Check out [my code samples on GitHub](https://github.com/nithinmohantk)!
 
