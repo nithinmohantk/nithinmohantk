@@ -1,12 +1,12 @@
 ### Hello Namaste! 👋🏻 
 
-I'm Nithin:octocat:. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and I work for Carne Digital Solutions Ltd  - [Platform Ops Team](https://www.carnegroup.com) :bowtie:. 
+:name_badge: I'm Nithin:octocat:. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and I work for Carne Digital Solutions Ltd  - [Platform Ops Team](https://www.carnegroup.com) :bowtie:. 
 
 :triangular_flag_on_post: Nationality :india:, Current Location :ireland:
 
 #### :trident: DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
-I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
+:fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
 - 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects
 - 🌱 I’m currently learning GitOps, ArgoCD, Flux, CKS, CCSK
