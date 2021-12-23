@@ -6,7 +6,7 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
-- 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects [GitHub latest commit](https://badgen.net/github/last-commit/nithinmohantk/Strapdown.js)
+- 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects 
 - 🌱 I’m currently learning GitOps, ArgoCD, Flux, CKS, CCSK
 - 🌱 Additionally trying to spend time learning more on.NET Core and Azure... when I have time!
 - 👯 I’m looking to collaborate on Projects and Hackathons
