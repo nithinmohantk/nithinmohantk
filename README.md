@@ -2,7 +2,7 @@
 
 I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). 
 
-- 💻 Check out [our code samples on GitHub](https://github.com/nithinmohantk)!
+- 💻 Check out [my code samples on GitHub](https://github.com/nithinmohantk)!
 
 I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
@@ -23,3 +23,6 @@ I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my 
 [![facebook badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=facebook)](https://facebook.com/nithinmohantk)
 [![twitter badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
 [![medium badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=web)](https://www.nithinz.dev)
+
+
+@OpenContrib @DotNetContrib @ThingX-Smart @Big0 @JSContrib @AzureContrib @ThingX-Learning @MS-Learning @ThingX-IoT @SPPnP-Contrib @LK-MUG @LettekennyJS @AlibabaCloud-EIRE @DevOpsContrib @AI-Contrib @CtrlAltEliteZ @aily-io @dotnet-foundation @carne-digital @HackmaniaGX @Mobile-Dev-Contrib @ThingXCloud @CloudContrib @NuZigma @CloudNativeContrib
