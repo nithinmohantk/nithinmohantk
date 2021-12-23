@@ -1,4 +1,4 @@
-### Hello! 👋🏻
+### Hello Namaste! 👋🏻
 
 I'm Nithin. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk), and I work for Carne Digital Solutions Ltd  [Platform Ops Team](https://www.carnegroup.com). 
 
@@ -24,3 +24,5 @@ I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my 
 [![twitter badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
 [![medium badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=web)](https://www.nithinz.dev)
 
+### Organizations 
+[@OpenContrib](https://github.com/OpenContrib) @DotNetContrib @ThingX-Smart @Big0 [@JSContrib](https://github.com/JSContrib) [@AzureContrib](https://github.com/AzureContrib) @ThingX-Learning @MS-Learning @ThingX-IoT @SPPnP-Contrib [@LK-MUG]((https://github.com/LK-MUG) @LettekennyJS @AlibabaCloud-EIRE [@DevOpsContrib]((https://github.com/DevOpsContrib) @AI-Contrib @CtrlAltEliteZ @aily-io @dotnet-foundation@HackmaniaGX @Mobile-Dev-Contrib @ThingXCloud @CloudContrib @NuZigma @CloudNativeContrib
