@@ -8,7 +8,7 @@ I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my 
 
 - 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects
 - 🌱 I’m currently learning GitOps, ArgoCD, Flux, CKS, CCSK
-- 🌱 Additionally trying to spend time learning .NET Core and Azure... when I have time!
+- 🌱 Additionally trying to spend time learning more on.NET Core and Azure... when I have time!
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
 - 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://github.com/nithinmohantk)
