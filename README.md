@@ -15,7 +15,7 @@
 - 💬 Ask me about anything
 - 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://github.com/nithinmohantk)
 - 📫 How to reach me: Twitter - @nithinmohantk @_AzureLad
-- 😄 Pronouns: He/Him/Male
+- 😄 Pronouns: He/Him/Male :male_sign:
 - 📝 Favorite editor: VS Code, Visual Studio, Vim (Linux)
 - 🖥️ First computer: [AMD K6-2](https://en.wikipedia.org/wiki/AMD_K6-2) + 128MB  💻 I am an AMD Fan since 1999 - used almost many single core to octo core cpus till date. 
 - 💻 Current computer: 
