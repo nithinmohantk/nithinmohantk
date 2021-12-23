@@ -26,7 +26,6 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 [![facebook badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=facebook)](https://facebook.com/nithinmohantk)
 [![twitter badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=twitter)](https://twitter.com/nithinmohantk)
 [![medium badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=web)](https://www.nithinz.dev)
-[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinmohantk)](https://github.com/anuraghazra/github-readme-stats)
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithinmohantk&show_icons=true&theme=radical)
 
 
