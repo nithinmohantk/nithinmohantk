@@ -2,7 +2,7 @@
 
 I'm Nithin:octocat:. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and I work for Carne Digital Solutions Ltd  - [Platform Ops Team](https://www.carnegroup.com) :bowtie:. 
 
-Nationality :india:, Current Location :ireland:
+:triangular_flag_on_post: Nationality :india:, Current Location :ireland:
 
 ### DevOps Team Lead - Carne Group / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
