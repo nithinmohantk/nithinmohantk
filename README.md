@@ -20,7 +20,7 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 - 💻 Current computer: 
 - - 🖥️ [AMD Ryzen 7 3700X](https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x) + [AMD Radeon RX5700-8G](https://www.techpowerup.com/vgabios/217058/xfx-rx5700-8192-191118) + [Crucial Ballistix DDR4 3200Mhz 64Gig - 4*16GB](https://www.techpowerup.com/review/crucial-ballistix-gaming-memory-ddr4-3200-mhz-cl16/)
 - - 💻 [AMD Ryzen 5 4600h](https://www.amd.com/en/products/apu/amd-ryzen-5-4600h) + [NVIDIA 1650 Ti-4G](https://www.techpowerup.com/gpu-specs/geforce-gtx-1650-ti-mobile.c3517) + [64Gig DDR4 SODIMM - GSkill Ripjaws](https://www.memoryc.com/32156-64gb-g-skill-3200mhz-ddr4-so-dimm-laptop-memory-upgrade-kit-cl22-1-20v-pc4-25600-ripjaws-2x-32gb.html)
-- - 💻 Work - Dell XPS 15 - 9510 - Core i7-11800H + NVIDIA RTX 3050 Ti + 64 Gig 
+- - 💻 [Work - Dell XPS 15 9510](https://www.dell.com/en-ie/shop/laptops/xps-15-laptop/spd/xps-15-9510-laptop/cn95103cc) - [Core i7-11800H](https://ark.intel.com/content/www/us/en/ark/products/213803/intel-core-i711800h-processor-24m-cache-up-to-4-60-ghz.html)  + [NVIDIA RTX 3050 Ti](https://www.notebookcheck.net/NVIDIA-GeForce-RTX-3050-Ti-Laptop-GPU-Benchmarks-and-Specs.527430.0.html) + 64 Gig 
 - Networking: Primary: [ASUS TUF 5400](https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/TUF-Gaming-AX5400/)  | Secondary: [Huawei AX3 PRO](https://consumer.huawei.com/en/routers/ax3-quad-core/)
 - ⚡ Fun fact: I am dyslexic, hard to focus, keep forgetting things, you could see careless spelling mistakes everywhere. But I try to practice and remember things that is essential. 
 
