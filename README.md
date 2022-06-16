@@ -36,3 +36,19 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 ![Cert Logos](https://raw.githubusercontent.com/nithinmohantk/nithinmohantk/main/certwall2.PNG?12333)
 ### Open Organizations 
 [@OpenContrib](https://github.com/OpenContrib) / [@DotNetContrib](https://github.com/DotNetContrib) / [@ThingX-Smart](https://github.com/ThingX-Smart) / [@Big0](https://github.com/Bio0)  / [@JSContrib](https://github.com/JSContrib)  / [@AzureContrib](https://github.com/AzureContrib)  / [@ThingX-Learning](https://github.com/ThingX-Learning)  / [@MS-Learning](https://github.com/MS-Learning)  / [@ThingX-IoT](https://github.com/ThingX-IoT)  / [@SPPnP-Contrib](https://github.com/SPPnP-Contrib)  / [@LK-MUG](https://github.com/LK-MUG)  / [@LettekennyJS](https://github.com/LettekennyJS)  / [@AlibabaCloud-EIRE](https://github.com/AlibabaCloud-EIRE)   / [@DevOpsContrib](https://github.com/DevOpsContrib)  / [@AI-Contrib](https://github.com/AI-Contrib)  / [@CtrlAltEliteZ](https://github.com/CtrlAltEliteZ)  / [@aily-io](https://github.com/aily-io)  /  [@dotnet-foundation](https://github.com/dotnet-foundation)  / [@HackmaniaGX](https://github.com/HackmaniaGX)  /  [@Mobile-Dev-Contrib](https://github.com/Mobile-Dev-Contrib)  /  [@ThingXCloud](https://github.com/ThingXCloud)  / [@CloudContrib](https://github.com/CloudContrib)  / [@NuZigma](https://github.com/NuZigma)  / [@CloudNativeContrib](https://github.com/CloudNativeContrib)
+
+### Benchmarks
+[UserBenchmarks: Game 110%, Desk 107%, Work 134%](https://www.userbenchmark.com/UserRun/53266676)  
+
+||Model|Bench
+:----|:----|:----|
+**CPU**|[AMD Ryzen 9 5950X 16-Core](https://cpu.userbenchmark.com/SpeedTest/1708514/AMD-Ryzen-9-5950X-16-Core-Processor)|106.7%
+**GPU**|[AMD RX 5700-XT](https://gpu.userbenchmark.com/AMD-RX-5700-XT/Rating/4045)|99.8%
+**SSD**|[Sabrent Rocket 4 NVMe PCIe M.2 1TB](https://ssd.userbenchmark.com/SpeedTest/844208/Sabrent-ROCKET-40-1TB)|160.8%
+**SSD**|[Crucial P2 3D NVMe PCIe M.2 1TB](https://ssd.userbenchmark.com/SpeedTest/1312497/CT1000P2SSD8)|231.3%
+**SSD**|[Crucial BX300 480GB](https://ssd.userbenchmark.com/Crucial-BX300-480GB/Rating/3947)|82.2%
+**HDD**|[WD Green 3TB (2011)](https://hdd.userbenchmark.com/WD-Green-3TB-2011/Rating/1415)|64.7%
+**HDD**|[Seagate ST32000542AS 2TB](https://hdd.userbenchmark.com/SpeedTest/696/ST32000542AS)|39.6%
+**RAM**|[Crucial BLS16G4D32AESE.M16FE 4x16GB](https://ram.userbenchmark.com/SpeedTest/771088/Crucial-BLS16G4D32AESEM16FE-4x16GB)|135.4%
+**MBD**|[MSI X570-A PRO (MS-7C37)](https://www.userbenchmark.com/System/MSI-X570-A-PRO-MS-7C37/149212)|
+
