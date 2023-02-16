@@ -6,7 +6,7 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
-- 🔭 I’m currently working on .NET, Azure, Kubernetes, DevOps implementation projects 
+- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects 
 - 🌱 I’m currently learning everything particularly GitOps, ArgoCD, Flux, CKS, CCSK
 - 🌱 Next targetted certifications CKS, CCSK, AZ-700, AZ-800+801, LFCS, LFCE goes on..
 - 🌱 Additionally trying to spend time learning more on.NET Core and Azure... when I have time!
