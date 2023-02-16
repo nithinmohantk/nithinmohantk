@@ -6,14 +6,15 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
-- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects 
+- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure 
 - 🌱 I’m currently learning everything particularly GitOps, ArgoCD, Flux, CKS, CCSK
+- 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
 - 🌱 Next targetted certifications CKS, CCSK, AZ-700, AZ-800+801, LFCS, LFCE goes on..
-- 🌱 Additionally trying to spend time learning more on.NET Core and Azure... when I have time!
+- 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering and Azure... when I have time!
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
 - 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://github.com/nithinmohantk)
-- 📫 How to reach me: Twitter - @nithinmohantk @_AzureLad
+- 📫 How to reach me: Twitter - @nithinmohantk  
 - 😄 Pronouns: He/Him :male_sign:
 - 📝 Favorite editor: [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) 
 - 📝 Favourite languages/platforms: [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) [![azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) [![azurepipelines](https://badgen.net/badge/icon/azurepipelines?icon=azurepipelines&label)](https://azure.microsoft.com) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/) [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/) [![terraform](https://badgen.net/badge/icon/terraform?icon=terraform&label)](https://https://www.terraform.com/) [![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label=windows)](https://www.terminal.com/) [![terminal](https://badgen.net/badge/icon/terminal?icon=core&label=powershell)](https://github.com/powershell/powershell/) [![windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) [![Linux](https://badgen.net/badge/icon/linux?icon=linux&label=ubuntu)](https:/www.ubuntu.org/)  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
