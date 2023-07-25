@@ -6,8 +6,9 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
-- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure 
-- 🌱 I’m currently learning everything particularly GitOps, ArgoCD, Flux, CKS, CCSK
+- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in Azure with CAF & Enterprise Scale
+- 🌱 I'm a hands-on technology/software/solution architect by heart who loves solutions analysis, design and implementing Products and help clients with thier Cloud Adoption Journey. 
+- 🌱 I’m currently improving my skills on everything on Cloud Native Ecosystem particularly GitOps, ArgoCD, Flux, CKS, CCSK, Monitoring and Observability.
 - 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
 - 🌱 Next targetted certifications CKS, CCSK, AZ-700, AZ-800+801, LFCS, LFCE goes on..
 - 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering and Azure... when I have time!
@@ -27,7 +28,6 @@ I'm Nithin Mohan:name_badge::technologist::octocat::cancer::male_sign::india::ir
 - - 💻 Personal Lab #5  - Intel Corei5 3470K - NVIDIA 1030 2G - 32Gig DDR3-1600Mhz 
 - - 💻 [Work - Dell XPS 15 9510](https://www.dell.com/en-ie/shop/laptops/xps-15-laptop/spd/xps-15-9510-laptop/cn95103cc) - [Core i7-11800H](https://ark.intel.com/content/www/us/en/ark/products/213803/intel-core-i711800h-processor-24m-cache-up-to-4-60-ghz.html)  + [NVIDIA RTX 3050 Ti](https://www.notebookcheck.net/NVIDIA-GeForce-RTX-3050-Ti-Laptop-GPU-Benchmarks-and-Specs.527430.0.html) + 64Gig - 2x32GB 3200Mhz DDR4 SODIMM
 - Networking: Primary: [ASUS TUF 5400](https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/TUF-Gaming-AX5400/)  | Secondary: [Huawei AX3 PRO](https://consumer.huawei.com/en/routers/ax3-quad-core/)
-- ⚡ Fun fact: I am dyslexic, hard to focus, keep forgetting things, you could see careless spelling mistakes everywhere. But I try to practice and remember things that is essential. 
 
 [![linkedin badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nithinmohantk/)
 [![facebook badge](https://img.shields.io/badge/nithinmohantk-(azurelad)-blue?style=flat&logo=facebook)](https://facebook.com/nithinmohantk)
