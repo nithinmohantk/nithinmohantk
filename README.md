@@ -6,7 +6,7 @@ I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
-- 🔭 I’m currently working on .NET, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in Azure with CAF & Enterprise Scale
+- 🔭 I’m currently working on .NET, AWS, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in Azure with CAF & Enterprise Scale
 - 🌱 I'm a hands-on technology/software/solution architect by heart who loves solutions analysis, design and implementing Products and help clients with thier Cloud Adoption Journey. 
 - 🌱 I’m currently improving my skills on everything on Cloud Native Ecosystem particularly GitOps, ArgoCD, Flux, CKS, CCSK, Monitoring and Observability.
 - 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
