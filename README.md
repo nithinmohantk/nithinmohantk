@@ -12,7 +12,7 @@ I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com
 - 🌱 Preparing for CKS and PrometheusCertification and AWS Cerfication renewals.
 - 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
 - 🌱 Next targetted certifications CKS, AZ-700, AZ-800+801, LFCS, LFCE goes on..
-- 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering and Azure... when I have time!
+- 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering, AWS and Azure... when I have time!
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
 - 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://github.com/nithinmohantk)
