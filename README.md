@@ -2,7 +2,7 @@
 
 I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and  works for :briefcase: THINGXCLOUD TECHNOLOGIES LTD  - [Cloud Engineering](https://www.thingx.cloud) as :bowtie: CEO/Founder  :pushpin: Galway,Ireland   
 
-#### CKA / CKAD/ MCP / Microsoft Certified Trainer (MCT) / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
+#### CKA / CKAD/ CCSK / TOGAF / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
 
