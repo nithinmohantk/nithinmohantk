@@ -1,10 +1,10 @@
 ### Hello Namaste! 👋🏻 
 
-I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and  works for :briefcase: THINGXCLOUD TECHNOLOGIES LTD  - [Cloud Engineering](https://www.thingx.cloud) as :bowtie: CEO/Founder  :pushpin: Galway,Ireland   
+I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com/nithinmohantk):trollface:, and  works for :briefcase: EVERNORTH IRELAND LTD  - part of Cigna Group / Evenrorth Health Services US [Cloud Engineering](https://www.evernorth.com) as :bowtie: Solution Architect  :pushpin: Galway,Ireland   
 
 #### CKA / CKAD/ CCSK / TOGAF / Cloud Solutions Architect / Azure / AWS / Terraform / Kubernetes/ .NET / JS
 
-:fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.nithinz.dev). 
+:fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.dataa.dev). 
 
 - 🔭 I’m currently working on .NET, Python, AWS, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in AWS & Azure with Well Architected Principles, CAF & Enterprise Scale
 - 🌱 I'm a hands-on technology/software/solution architect by heart who loves solutions analysis, system design and implementing Products and help clients with thier Cloud Adoption Journey. 
