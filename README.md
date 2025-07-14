@@ -12,7 +12,7 @@ I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com
 - 🌱 I’m in love with everything on AI / ML and Gen AI models and Chatbot frameworks, technology trends.
 - 🌱 Preparing for CKS and Prometheus Certification and AWS Cerfication renewals.
 - 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
-- 🌱 Next targetted certifications CKS, AZ-700, AZ-800+801, LFCS, LFCE goes on..
+- 🌱 Next targetted certifications AWS Machine Learning Associate, AWS Solution Architect Associate, AWS Solution Architect Professional goes on..
 - 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering, AWS and Azure... when I have time!
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 💬 Ask me about anything
