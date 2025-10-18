@@ -12,9 +12,9 @@ I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com
 - 🌱 I currently with everything on AI / ML, Data Engineering and Gen AI models and Chatbot frameworks, technology trends.
 - 🌱 Preparing for AWS Cerfication renewals and work through coursera to find anything interesting.
 - 🌱 I’m an National Expert/observing member on  NSAI/ISO Member (TC 02/SC 11) Cloud computing and Distributed Platforms
-- 🌱 Next targetted certifications AWS Machine Learning Associate, AWS Solution Architect Associate, AWS Solution Architect Professional goes on..
-- 🌱 Additionally trying to spend time learning more on.NET Core, Data Engineering, AWS and Azure... when I have time!
-- 👯 I’m looking to collaborate on Projects and Hackathons
+- 🌱 Next targetted certifications are AWS Machine Learning Associate, AWS Solution Architect Associate, AWS Solution Architect Professional goes on..
+- 🌱 Additionally trying to spend time learning more on Advancements in AI Engineering, Python, .NET Core, Data Engineering, AWS and Azure... when I have time!
+- 👯 I’m looking to collaborate on Projects and Hackathons, and contribute to knowledge sharing sessions. 
 - 💬 Ask me about anything
 - 👩‍💻 I'm a hackathon aficionado. Find my hackathon projects [here](https://github.com/nithinmohantk)
 - 📫 How to reach me: Twitter - @nithinmohantk  
