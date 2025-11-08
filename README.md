@@ -6,7 +6,7 @@ I'm Nithin Mohan. You can mostly find me mostly on [Twitter](https://twitter.com
 
 :fleur_de_lis: I also sometimes write things on [DEV](https://dev.to/nithinmohantk), or on [my own website](https://www.dataa.dev). 
 
-- 🔭 I’m currently working on .NET, Python, AWS, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in AWS & Azure with Well Architected Principles, CAF & Enterprise Scale
+- 🔭 I’m currently working on .NET, Python, AWS, Azure, Terraform, Kubernetes, DevSecOps implementation projects in migrating and building next generation of cloud enabled infrastructure in AWS & Azure with Well Architected Principles, CAF & Enterprise Scale. My approach blends hands-on technical execution with strategic governance. 
 - 🌱 I'm a hands-on technology/software/solution architect by heart who loves ideation, design thinking, solutions analysis, system design and implementing Products and help clients with thier Digital Transformation Journey. 
 - 🌱 I’m love working with everything on Cloud Native Ecosystem particularly GitOps, ArgoCD, Flux
 - 🌱 I currently with everything on AI / ML, Data Engineering and Gen AI models and Chatbot frameworks, technology trends.
