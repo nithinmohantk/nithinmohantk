@@ -15,7 +15,7 @@ You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and
 
 - 🔭 **Cloud Architecture & Digital Transformation**: Architecting next-generation cloud-enabled infrastructure in AWS & Azure with Well-Architected Principles, Cloud Adoption Framework (CAF) & Enterprise Scale. My approach blends hands-on technical execution with strategic governance.
 
-- 🤖 **AI/ML & GenAI Innovation**: Deep expertise in AI/ML strategy, LLMs, Generative AI platforms (OpenAI, Azure OpenAI, Amazon Bedrock, Google Vertex AI), MLOps, model evaluation, and responsible AI practices. Building intelligent solutions with LangChain, RAG, GraphRAG, and multimodal AI.
+- 🤖 **AI/ML & GenAI Innovation**: Research & Development in AI/ML strategy, LLMs, Generative AI platforms (OpenAI, Azure OpenAI, Amazon Bedrock, Google Vertex AI), MLOps, model evaluation, and responsible AI practices. Building intelligent solutions with LangChain, RAG, GraphRAG, and multimodal AI.
 
 - ☁️ **Cloud-Native & DevOps**: Passionate about GitOps, ArgoCD, Flux, Kubernetes, and everything in the Cloud Native Ecosystem. Designing scalable, secure, and resilient microservices architectures.
 
