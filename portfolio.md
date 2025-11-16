@@ -1,5 +1,137 @@
 # Nithin Mohan T K - Repository Portfolio
 
+## Recently Created Repositories (2025)
+
+### [python-health-claim-analytic-hub-demo](https://github.com/nithinmohantk/python-health-claim-analytic-hub-demo)
+**Created:** January 3, 2025 (13 days ago)
+
+HealthClaim Analytics Hub is an AI Based fraud detection and analysis system designed to:
+- Visualize complex patient-provider networks
+- Detect anomalous claims using multiple algorithms
+- Provide AI-powered insights using GPT
+- Support investigation workflows
+
+**Technologies:** Python, FastAPI, Pandas, Streamlit, AI/ML, Graph Analytics, Network Visualization, OpenAI GPT, Fraud Detection
+
+**Status:** ✅ Active
+---
+
+### [TravelSmart-App-Concept](https://github.com/nithinmohantk/TravelSmart-App-Concept)
+**Created:** September 27, 2024 (50 days ago)
+
+AI-powered travel booking application combining OpenAI GPT-4 with MCP servers for intelligent trip planning, real-time weather insights, and seamless booking. Features FastAPI REST API, CLI interface, and modular microservices architecture with Poetry dependency management.
+
+**Technologies:** Python, FastAPI, OpenAI GPT-4, MCP Servers, Poetry, Microservices Architecture, REST API, CLI
+
+**Status:** ✅ Active
+
+---
+
+### [shelfscanner-ai-app-project](https://github.com/nithinmohantk/shelfscanner-ai-app-project)
+**Created:** September 12, 2024
+
+ShelfScanner - Complete AI Book Discovery Platform. A full-stack AI application that demonstrates modern software development practices including containerization, CI/CD, microservices architecture, and AI integration. The codebase follows best practices with proper error handling, type safety, security measures, and scalable design patterns.
+
+**Technologies:** Python, Docker, CI/CD, Microservices, AI Integration, Full-stack Development, Type Safety, Security
+
+---
+
+### [genai-boilerplate-milvus-python](https://github.com/nithinmohantk/genai-boilerplate-milvus-python)
+**Created:** August 17, 2024
+
+GenAI boilerplate project with LangChain and Milvus for vector database functionality.
+
+**Technologies:** Python, LangChain, Milvus Vector Database, Semantic Search, RAG
+
+**License:** MIT
+
+---
+
+### [genai-boilerplate-dotnet](https://github.com/nithinmohantk/genai-boilerplate-dotnet)
+**Created:** August 11, 2024
+
+.NET version of GenAI boilerplate with ASP.NET Core Web API backend, React frontend, multi-tenant architecture, JWT authentication, PostgreSQL/Redis integration, and AI chat capabilities using OpenAI API.
+
+**Technologies:** C#, ASP.NET Core, React, Multi-tenant Architecture, JWT Authentication, PostgreSQL, Redis, OpenAI API
+
+---
+
+### [local-llm-review](https://github.com/nithinmohantk/local-llm-review)
+**Created:** August 11, 2024
+
+Showcase how to run LLMs locally using LMStudio or Ollama, with payment integrity used as an example prompt.
+
+**Technologies:** Local LLM, LMStudio, Ollama, Open Source AI, Privacy-focused AI
+
+---
+
+### [genai-boilerplate-python](https://github.com/nithinmohantk/genai-boilerplate-python)
+**Created:** August 8, 2024
+
+Production-ready GenAI Chatbot boilerplate with Python FastAPI backend and React TypeScript frontend. Supports multiple AI providers, RAG with FAISS, and comprehensive document processing.
+
+**Technologies:** Python, FastAPI, React, TypeScript, FAISS, RAG, Vector Database, Document Processing, Multi-provider AI
+
+---
+
+### [Contoso.CS.DesignPatterns](https://github.com/nithinmohantk/Contoso.CS.DesignPatterns)
+**Created:** July 18, 2024
+
+13 GoF (Gang of Four) design patterns implemented in modern C# (.NET 8) with an interactive console launcher and a TCP MCP server. Includes Docker support and CI/CD pipeline.
+
+**Technologies:** C#, .NET 8, Design Patterns (Creational, Structural, Behavioral), TCP MCP Server, Docker, CI/CD
+
+---
+
+### [Gen-AI-Playground](https://github.com/nithinmohantk/Gen-AI-Playground)
+**Created:** July 15, 2024
+
+My curated set of notebooks from various GenAI examples and experiments.
+
+**Technologies:** Jupyter Notebook, Python, Various AI/ML Frameworks, LangChain, OpenAI, Experimentation
+
+---
+
+### [my-readings](https://github.com/nithinmohantk/my-readings)
+**Created:** June 22, 2024
+
+Collection of reading materials and technical references.
+
+**Technologies:** Documentation, Learning Resources
+
+**Visibility:** 🔒 Private
+
+---
+
+### [kaggle_workspace](https://github.com/nithinmohantk/kaggle_workspace)
+**Created:** May 27, 2024
+
+Workspace for Kaggle competitions and data science experiments.
+
+**Technologies:** Python, Data Science, Machine Learning, Kaggle, Data Analysis
+
+---
+
+### [neural-nexus-healthcare-fwa-analysis](https://github.com/nithinmohantk/neural-nexus-healthcare-fwa-analysis)
+**Created:** April 24, 2024
+
+This repository contains our project for the ITAG Atlantec Hackathon 2025 held in Galway. Our team (The Neural Nexus) developed an innovative approach to detect healthcare fraud by leveraging graph analysis and machine learning techniques.
+
+**Technologies:** Jupyter Notebook, Graph Analysis, Machine Learning, Healthcare Fraud Detection, Network Analysis, Hackathon Project
+
+**Status:** ✅ Active
+
+---
+
+### [Presentations](https://github.com/nithinmohantk/Presentations)
+**Created:** March 15, 2024
+
+Repository containing technical presentations and talks.
+
+**Technologies:** Documentation, Technical Presentations
+
+---
+
 ## AI & GenAI Projects
 
 ### [TravelSmart-App-Concept](https://github.com/nithinmohantk/TravelSmart-App-Concept)
