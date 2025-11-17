@@ -136,7 +136,7 @@ You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and
  
 - 💻**Lab #2** - **AI/LLM LAB #2** - Dell Precision 5680 | Intel Core i7-13700H | 64GB LPDDR5 6000MHz
 
-- 🖥️**Lab #3** - **AI/LLM LAB #3** - Acemagic F3A | Ryzen AI HX 370 | NVIDIA RTX 3090 24GB DDR6 VRAM | 64GB Kingston FURY Impact DDR5 5600MHz
+- 🖥️**Lab #3** - **AI/LLM LAB #3** - Acemagic F3A | Ryzen AI HX 370 | NVIDIA RTX 3090 24GB DDR6 VRAM | 128GB Kingston FURY Impact DDR5 5600MHz
 
 - 🖥️**Lab #4** - Minisforum EliteMini 780 XTX | AMD Ryzen 7 7840HS | 64GB Crucial DDR5 5600MHz
 
