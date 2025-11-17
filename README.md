@@ -15,6 +15,8 @@ You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and
 
 - 🔭 **Cloud Architecture & Digital Transformation**: Architecting next-generation cloud-enabled infrastructure in AWS & Azure with Well-Architected Principles, Cloud Adoption Framework (CAF) & Enterprise Scale. My approach blends hands-on technical execution with strategic governance.
 
+- 💻 **Full Stack Development**: Building scalable, production-grade applications across the entire stack using NET/C# (Framework & Core), Node.js (TypeScript), and Python (FastAPI). Expertise in designing microservice architectures, implementing RESTful APIs, and developing responsive front-end applications with React and Angular. Committed to code quality, testing, and DevOps best practices.
+
 - 🤖 **AI/ML & GenAI Innovation**: Research & Development in AI/ML strategy, LLMs, Generative AI platforms (OpenAI, Azure OpenAI, Amazon Bedrock, Google Vertex AI), MLOps, model evaluation, and responsible AI practices. Building intelligent solutions with LangChain, RAG, GraphRAG, and multimodal AI.
 
 - ☁️ **Cloud-Native & DevOps**: Passionate about GitOps, ArgoCD, Flux, Kubernetes, and everything in the Cloud Native Ecosystem. Designing scalable, secure, and resilient microservices architectures.
