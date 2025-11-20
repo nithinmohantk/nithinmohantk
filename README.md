@@ -152,7 +152,7 @@ You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and
 
 ### 🎓 Education
 
-- **Machine Learning** - Certificate | UCD Professional Academy (09/2025 – 12/2025)
+- **Data Analytics: Machine Learning** - Certificate | UCD Professional Academy (09/2025 – 12/2025)
 - **Advanced Artificial Intelligence** - Diploma | UCD Professional Academy (05/2025 – 09/2025)
 - **Master of Computer Applications (MCA)** - Mahatma Gandhi University, Kerala (01/2002 – 12/2005)
 - **Bachelor of Science (Mathematics)** - Mahatma Gandhi University, Kerala (06/1999 – 05/2002)
