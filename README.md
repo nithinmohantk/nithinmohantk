@@ -2,7 +2,7 @@
 
 I'm **Nithin Mohan T K** - Accomplished Enterprise Solution Architect & Engineering Leader with **20+ years** of progressive experience architecting, building, and scaling transformative enterprise solutions.
 
-You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and I work for :briefcase: **EVERNORTH IRELAND LIMITED** - part of Cigna Group / Evernorth Health Services US [Web: Evernorth](https://www.evernorth.com) as :bowtie: **Solution Architect / AI & Cloud** :pushpin: **Galway, Ireland**
+You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and I work for :briefcase: **THINGXCLOUD TECHNOLOGIES LIMITED** - [Web: Thingx.Cloud](https://www.thingx.cloud) as :bowtie: **Principal Solutions Architect / AI & Cloud** :pushpin: **Galway, Ireland**
 
 #### 🎓 Certifications & Expertise
 **AWS** | **Azure** | **GCP** | **CKA** | **CKAD** | **CCSK** | **TOGAF 9.2** | **Cloud Solutions Architect** | **Terraform** | **Kubernetes** | **.NET** | **Node.js** | **Python** | **AI/ML & GenAI** | **DevSecOps**
