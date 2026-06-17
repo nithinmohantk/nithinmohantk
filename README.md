@@ -135,7 +135,7 @@ You can find me on [Twitter](https://twitter.com/nithinmohantk) :trollface:, and
 - 🖥️**Lab #1** - **AI/LLM LAB #1** - AMD Ryzen 9 9950X3D | ROG STRIX X870 | Asus Prime OC - NVIDIA GeForce RTX 5070 Ti 16GB  GDDR7 | 128 GB Crucial DDR5
 - 🖥️**Lab #2** - **AI/LLM LAB #2** - AMD Ryzen 7 9800X3D | ROG STRIX B850 | Asus Prime OC - AMD Radeon RX 9070 XT 16GB  GDDR6 | 64 GB Crucial DDR5
 - 🖥️**Lab #3** - **AI/LLM LAB #3** - Minisforum 795S7 Modded | AMD Ryzen 9 7945HX | NVIDIA GeForce RTX 5060 8GB | 96GB Crucial 5600MHz DDR5
-  💻**Lab #4** - **AI/LLM LAB #4** - Dell Pro Max 16 Plus | Intel Core Ultra 7 265HX | 64GB CSODIMM LPDDR5 6400MHz | NVIDIA RTX PRO 3000 12GB GDDR7 
+- 💻**Lab #4** - **AI/LLM LAB #4** - Dell Pro Max 16 Plus | Intel Core Ultra 7 265HX | 64GB CSODIMM LPDDR5 6400MHz | NVIDIA RTX PRO 3000 12GB GDDR7 
 - 💻**Lab #5** - **AI/LLM LAB #5** - Dell Precision 5680 | Intel Core i7-13800H | 64GB LPDDR5 6000MHz
 - 🖥️**Lab #6** - **AI/LLM LAB #6** - Acemagic F3A | Ryzen AI HX 370 | NVIDIA RTX 3090 24GB DDR6 VRAM | 128GB Kingston FURY Impact DDR5 5600MHz
 - 🖥️**Lab #8** - Minisforum EliteMini 780 XTX | AMD Ryzen 7 7840HS | 64GB Crucial DDR5 5600MHz
